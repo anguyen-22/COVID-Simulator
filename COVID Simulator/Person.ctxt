@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Person
+comment1.params=xMax\ yMax
+comment1.target=Person(int,\ int)
+comment2.params=
+comment2.target=void\ updatePerson()
+comment3.params=p
+comment3.target=void\ interactWith(Person)
+comment4.params=
+comment4.target=boolean\ isInfected()
+comment5.params=
+comment5.target=boolean\ isDead()
+comment6.params=g
+comment6.target=void\ draw(java.awt.Graphics)
+numComments=7
