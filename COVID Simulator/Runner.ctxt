@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Runner
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=numPeople
+comment2.target=void\ RUNTHIS(int)
+comment3.params=numPeople
+comment3.target=Runner(int)
+comment4.params=dt
+comment4.target=void\ update(double)
+comment5.params=g
+comment5.target=void\ paint(java.awt.Graphics)
+numComments=6
